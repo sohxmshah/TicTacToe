@@ -1,6 +1,4 @@
-<img width="366" alt="{6F056497-3F58-4E89-BB95-F9BACBBED714}" src="https://github.com/user-attachments/assets/70d2f122-ac9f-427f-a1bf-acc3f8ab9e77" /># TicTacToe
-
-Tic Tac Toe Game
+## Tic Tac Toe Game
 A simple and interactive Tic Tac Toe game built with HTML, CSS, JavaScript, and Bootstrap.
 
 Features
@@ -24,6 +22,11 @@ How to Play
 Player X starts first
 Click on any empty cell to place your mark
 Players alternate turns
+
+
+## Screenshot
+
+<img width="366" alt="{6F056497-3F58-4E89-BB95-F9BACBBED714}" src="https://github.com/user-attachments/assets/70d2f122-ac9f-427f-a1bf-acc3f8ab9e77" /># TicTacToe
 
 The first player to get 3 of their marks in a row (horizontally, vertically, or diagonally) wins
 If all cells are filled without a winner, the game ends in a draw
