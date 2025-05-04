@@ -1,4 +1,4 @@
-# TicTacToe
+<img width="366" alt="{6F056497-3F58-4E89-BB95-F9BACBBED714}" src="https://github.com/user-attachments/assets/70d2f122-ac9f-427f-a1bf-acc3f8ab9e77" /># TicTacToe
 
 Tic Tac Toe Game
 A simple and interactive Tic Tac Toe game built with HTML, CSS, JavaScript, and Bootstrap.
@@ -36,9 +36,9 @@ Clone this repository or download the files
 Upload all files to your web server
 Access the game through your server's URL
 
-File Structure
+File Structure <br>
 tic-tac-toe/
-├── index.html          # Main HTML file <br>
-├── style.css           # Custom CSS styles <br>
-├── script.js           # Game logic <br>
-└── README.md           # This file <br>
+├── index.html &emsp;&emsp;             # Main HTML file <br>
+├── style.css  &emsp;&emsp;             # Custom CSS styles <br>
+├── script.js  &emsp;&emsp;             # Game logic <br>
+└── README.md  &emsp;&emsp;             # This file <br>
