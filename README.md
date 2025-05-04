@@ -40,7 +40,7 @@ Upload all files to your web server
 Access the game through your server's URL
 
 File Structure <br>
-tic-tac-toe/
+tic-tac-toe/ <br>
 ├── index.html &emsp;&emsp;             # Main HTML file <br>
 ├── style.css  &emsp;&emsp;             # Custom CSS styles <br>
 ├── script.js  &emsp;&emsp;             # Game logic <br>
